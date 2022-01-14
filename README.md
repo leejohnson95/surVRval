@@ -52,10 +52,10 @@ Enjoy!
 * Physical backpack can be picked up and items can be stored
   - Can store consumables, weapons and other items
 - Holsters
-* Player has two holsters which can be used to store ANY items by the users side for quick access
+*Player has two holsters which can be used to store ANY items by the users side for quick access
 - weapons
-* Weapons can be used to apply damage and gather resources from certain trees or ore nodes(stone, metal)
-* Each weapon has a hit buffer which controls how fast you can deal damage or gather resources, stopping spam resource and damage hitting
+*Weapons can be used to apply damage and gather resources from certain trees or ore nodes(stone, metal)
+*Each weapon has a hit buffer which controls how fast you can deal damage or gather resources, stopping spam resource and damage hitting
   - axe
    - One Handed
    - can harvest wood from trees
