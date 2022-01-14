@@ -31,7 +31,8 @@ Enjoy!
   - Full range movement and tracking
   - climbing (go climb the white tower)
 - Player vitals
-* Player can consume consumables by eating and drinking in VR, bring the consumable to your mouth and your player will consume the item to gain its benefits
+-
+-  Player can consume consumables by eating and drinking in VR, bring the consumable to your mouth and your player will consume the item to gain its benefits
   - Health
    - drains over time if hunger or thirst is empty
    - will restore if player is healthy (thirst and hunger over a certain %)
@@ -40,22 +41,22 @@ Enjoy!
   - Food
    - drains over time
 - Player UI
-* Can shown/hide by pressing the oculus menu button (left controller)
+- Can shown/hide by pressing the oculus menu button (left controller)
   - Player vitals
   - resources (inventory)
 - inventory
-* For resource gathering only, picked up resource items can be stored in the inventory by putting them in the inventory (over players right shoulder)
+- For resource gathering only, picked up resource items can be stored in the inventory by putting them in the inventory (over players right shoulder)
   - Wood
   - Metal
   - Stone
 - Backpack
-* Physical backpack can be picked up and items can be stored
+- Physical backpack can be picked up and items can be stored
   - Can store consumables, weapons and other items
 - Holsters
-*Player has two holsters which can be used to store ANY items by the users side for quick access
+- Player has two holsters which can be used to store ANY items by the users side for quick access
 - weapons
-*Weapons can be used to apply damage and gather resources from certain trees or ore nodes(stone, metal)
-*Each weapon has a hit buffer which controls how fast you can deal damage or gather resources, stopping spam resource and damage hitting
+- Weapons can be used to apply damage and gather resources from certain trees or ore nodes(stone, metal)
+- Each weapon has a hit buffer which controls how fast you can deal damage or gather resources, stopping spam resource and damage hitting
   - axe
    - One Handed
    - can harvest wood from trees
@@ -74,6 +75,6 @@ Enjoy!
   - Health
    - Mushroom
 - Resources
-* these are single use resources that can be collected and stored in the players inventory
+- these are single use resources that can be collected and stored in the players inventory
   - Wood Stick
   - small rock
