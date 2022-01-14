@@ -33,12 +33,12 @@ Enjoy!
 - Player vitals
 * Player can consume consumables by eating and drinking in VR, bring the consumable to your mouth and your player will consume the item to gain its benefits
   - Health
-    - drains over time if hunger or thirst is empty
-    - will restore if player is healthy (thirst and hunger over a certain %)
+   - drains over time if hunger or thirst is empty
+   - will restore if player is healthy (thirst and hunger over a certain %)
   - Hunger
-    - drains over time
+   - drains over time
   - Food
-    - drains over time
+   - drains over time
 - Player UI
 * Can shown/hide by pressing the oculus menu button (left controller)
   - Player vitals
@@ -57,22 +57,22 @@ Enjoy!
 * Weapons can be used to apply damage and gather resources from certain trees or ore nodes(stone, metal)
 * Each weapon has a hit buffer which controls how fast you can deal damage or gather resources, stopping spam resource and damage hitting
   - axe
-    - One Handed
-    - can harvest wood from trees
+   - One Handed
+   - can harvest wood from trees
   - pickaxe
-    - Two handed
-    - can harvest stone from stone Ore
+   - Two handed
+   - can harvest stone from stone Ore
   - Club
-    - One handed
+   - One handed
   - Large Stick
-    - Two handed
+   - Two handed
 - Consumables
   - Thirst
-    - Water
+   - Water
   - Hunger
-    - Chicken drumstick
+   - Chicken drumstick
   - Health
-    - Mushroom
+   - Mushroom
 - Resources
 * these are single use resources that can be collected and stored in the players inventory
   - Wood Stick
