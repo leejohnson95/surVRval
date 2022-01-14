@@ -24,13 +24,13 @@ Enjoy!
 
 <h2> Implemented features; </h2>
 
-- VR Hands tracking and movement
+- VR Hands tracking and movement <br>
 provided by autoHands, Full realistic physics movement and hands tracking
 - Player movement
   - Walking
   - Full range movement and tracking
   - climbing (go climb the white tower)
-- Player vitals
+- Player vitals <br>
 Player can consume consumables by eating and drinking in VR, bring the consumable to your mouth and your player will consume the item to gain its benefits
   - Health
    - drains over time if hunger or thirst is empty
@@ -39,22 +39,22 @@ Player can consume consumables by eating and drinking in VR, bring the consumabl
    - drains over time
   - Food
    - drains over time
-- Player UI
+- Player UI <br>
 Can shown/hide by pressing the oculus menu button (left controller)
   - Player vitals
   - resources (inventory)
-- inventory
+- inventory <br>
 For resource gathering only, picked up resource items can be stored in the inventory by putting them in the inventory (over players right shoulder)
   - Wood
   - Metal
   - Stone
-- Backpack
+- Backpack <br>
 Physical backpack can be picked up and items can be stored
   - Can store consumables, weapons and other items
-- Holsters
+- Holsters <br>
 Player has two holsters which can be used to store ANY items by the users side for quick access
-- weapons
-Weapons can be used to apply damage and gather resources from certain trees or ore nodes(stone, metal)
+- weapons <br>
+Weapons can be used to apply damage and gather resources from certain trees or ore nodes(stone, metal) <br>
 Each weapon has a hit buffer which controls how fast you can deal damage or gather resources, stopping spam resource and damage hitting
   - axe
    - One Handed
