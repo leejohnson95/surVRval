@@ -1,4 +1,4 @@
-<img src="https://github.com/leejohnson95/surVRval/blob/main/IMG_5863.jpg" alt="survrval logo" style="width:200px;height:auto;text-align:center;">
+<img src="https://github.com/leejohnson95/surVRval/blob/main/IMG_5863.jpg" alt="survrval logo" style="width:200px;height:auto;">
 <h1>surVRval a virtual reality open world survival game</h1>
 
 Current version: 0.0.1
@@ -6,7 +6,7 @@ Build tested on: Oculus Quest 2
 
 <h2> How to install </h2>
 
-<a href="https://github.com/leejohnson95/surVRval/releases/tag/v0.0.1"> Download the APK here </a>
+<a href="https://github.com/leejohnson95/surVRval/releases/download/v0.0.1/testBuild_v0.0.1.apk"> Download the APK here </a>
 failover link: https://github.com/leejohnson95/surVRval/releases/tag/v0.0.1
 
 Once you download the APK, you can install it onto your Quest 2 by following this guide.
