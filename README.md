@@ -1,3 +1,4 @@
+<img src="https://github.com/leejohnson95/surVRval/blob/main/IMG_5863.jpg" alt="survrval logo">
 <h1>surVRval a virtual reality open world survival game</h1>
 
 Current version: 0.0.1
